@@ -645,4 +645,4 @@ Image2Pixel Studio was built around a few simple goals:
 
 # License
 
-See the repository's license file for the current licensing terms.
+See the repository's [license file](https://github.com/John-Da/Image2Pixel/blob/main/LICENSE) for the current licensing terms.
