@@ -76,8 +76,8 @@ The processing is implemented using **Pillow and NumPy**, without relying on an 
 
 |                                                             Original                                                            |                                                                  Pixelated                                                                 |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
-| <img alt="Original Ali image" height="300" src="https://github.com/John-Da/Image2Pixel/blob/main/examples/screenshots/ali.jpg"> | <img alt="Pixelated Ali image" height="300" src="https://github.com/John-Da/Image2Pixel/blob/main/examples/screenshots/ali_pixelated.png"> |
-|        <img alt="Original car image" src="https://github.com/John-Da/Image2Pixel/blob/main/examples/screenshots/car.jpg">       |        <img alt="Pixelated car image" src="https://github.com/John-Da/Image2Pixel/blob/main/examples/screenshots/car_pixelated.png">       |
+| <img alt="Original Ali image" height="300" src="https://github.com/John-Da/Image2Pixel/blob/main/demo/ali.jpg"> | <img alt="Pixelated Ali image" height="300" src="https://github.com/John-Da/Image2Pixel/blob/main/demo/ali_pixelated.png"> |
+|        <img alt="Original car image" src="https://github.com/John-Da/Image2Pixel/blob/main/demo/car.jpg">       |        <img alt="Pixelated car image" src="https://github.com/John-Da/Image2Pixel/blob/main/demo/car_pixelated.png">       |
 
 ---
 
@@ -600,11 +600,11 @@ Images selected through the file picker are read from the picker-provided data, 
 
 ### Main Interface
 
-<img alt="Image2Pixel Studio interface" src="https://github.com/John-Da/Image2Pixel/blob/main/examples/screenshots/ui1.png">
+<img alt="Image2Pixel Studio interface" src="https://github.com/John-Da/Image2Pixel/blob/main/demo/ui1.png">
 
 ### Processing / Preview
 
-<img alt="Image2Pixel Studio preview" src="https://github.com/John-Da/Image2Pixel/blob/main/examples/screenshots/ui2.png">
+<img alt="Image2Pixel Studio preview" src="https://github.com/John-Da/Image2Pixel/blob/main/demo/ui2.png">
 
 ---
 
